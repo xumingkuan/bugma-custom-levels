@@ -11,4 +11,4 @@ To install and play:
 
 Enjoy!
 
-![](demo/level1.png)
+![](demo/level5.png)
